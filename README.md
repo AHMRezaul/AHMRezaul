@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rezaul
-- 👀 I’m interested in Machine learning, Android Application Development, Web Application Development
-- 🌱 I’m currently doing my PhD at George Mason University
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 👀 I’m interested in Natural Language Processing (NLP), Large Language Model (LLM), Application Development, Web Application Development
+- 🌱 I’m currently doing my PhD in Computer Science at George Mason University
+- 💞️ I’m looking to collaborate on NLP projects
 - 📫 How to reach me: email: ahmrezaulkarim03@gmail.com
 - 🔗 Check out my portfolio website at https://ahmrezaul.github.io/
 
